@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Naruebet</h1>
 
 <p align="center">
-  <i>Turning caffeine and random ideas into unfinished projects.</i>
+  Turning caffeine and random ideas into unfinished projects.
 </p>
 
 ---
