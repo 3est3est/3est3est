@@ -14,6 +14,6 @@
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=ts,go,rust,bun,react,nextjs,angular,astro,elysia,tailwind,postgres,docker,bash,linux,arch,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,go,rust,python,bun,nodejs,react,nextjs,angular,astro,elysia,tailwind,postgres,docker,bash,linux,arch,git,github)](https://skillicons.dev)
 
 ---
