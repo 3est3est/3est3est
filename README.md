@@ -6,7 +6,7 @@
 
 ---
 
-## Connect with Me
+## Contact
 
 - Email: Kanompang450@gmail.com
 
@@ -14,6 +14,6 @@
 
 ## Tech Stack
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ts,go,rust,python,bun,nodejs,elysia,react,nextjs,angular,astro,tailwind,postgres,docker,bash,linux,cachyos,git,github&perline=10)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ts,go,rust,python,bun,nodejs,elysia,react,nextjs,angular,astro,tailwind,postgres,docker,bash,linux,cachyos,git,github&perline=7)
 
 ---
