@@ -16,7 +16,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,go,rust,bun,nodejs,elysia,react,nextjs,angular,astro,tailwind,postgres,docker,bash,linux,arch,git,github" />
+    <img src="https://skillicons.dev/icons?i=ts,go,rust,bun,nodejs,elysia,react,nextjs,angular,astro,tailwind,postgres,docker,git,github" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=bash,linux,arch" />
   </a>
 </p>
 
