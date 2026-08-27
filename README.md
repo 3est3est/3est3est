@@ -15,7 +15,9 @@
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,go,rust,bun, nodejs, elysia, react, nextjs, angular, tailwind, postgres, docker, bash, linux, arch, git, github"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,go,rust,bun, nodejs, elysia, react, nextjs, angular, tailwind, postgres, docker, bash, linux, arch, git, github" />
+  </a>
 </div>
 
 ---
