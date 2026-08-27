@@ -14,6 +14,8 @@
 
 ## Tech Stack
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ts,go,rust,python,bun,nodejs,elysia,react,nextjs,angular,astro,tailwind,postgres,docker,bash,linux,cachyos,git,github&perline=7)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,go,rust,bun, nodejs, elysia, react, nextjs, angular, tailwind, postgres, docker, bash, linux, arch, git, github"/>
+</div>
 
 ---
