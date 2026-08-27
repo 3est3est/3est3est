@@ -21,5 +21,3 @@
     <img src="https://skillicons.dev/icons?i=bash,linux,arch" />
   </a>
 </p>
-
----
