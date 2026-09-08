@@ -6,17 +6,11 @@
 
 ---
 
-## Contact
-
-- Email: Kanompang450@gmail.com
-
----
-
 ## Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,go,rust,bun,elysia,react,nextjs,angular,astro,postgres,docker,git,github" />
+    <img src="https://skillicons.dev/icons?i=ts,go,rust,bun,elysia,react,nextjs,astro,postgres,docker,git,github" />
     <br>
     <img src="https://skillicons.dev/icons?i=bash,linux,arch" />
   </a>
