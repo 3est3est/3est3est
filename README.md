@@ -1,17 +1,4 @@
 <h1 align="center">👋 Hi, I'm Naruebet</h1>
 
-<p align="center">
-  Turning caffeine and random ideas into unfinished projects.
-</p>
-
----
-
 ## Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,go,rust,bun,elysia,react,nextjs,astro,postgres,docker,git,github" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=bash,linux,arch" />
-  </a>
-</p>
+![ts](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg) ![go](https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go1.svg) ![rust](https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust1.svg) ![react](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg) ![nextjs](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg) ![astro](https://ziadoua.github.io/m3-Markdown-Badges/badges/Astro/astro1.svg) ![postgresql](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg) ![docker](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg) ![git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg) ![github](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg) ![linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg) ![arch](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch1.svg)
